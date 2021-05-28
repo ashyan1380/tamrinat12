@@ -1,0 +1,17 @@
+.form-control{
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+.form-control input{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+}
+.btn--save{
+    background-color: teal;
+}
+.err{
+    color: rgb(212, 20, 20);
+    font-size: 12px;
+}

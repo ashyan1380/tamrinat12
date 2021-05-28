@@ -1,0 +1,15 @@
+.search-container{
+    display: flex;
+    justify-content: space-between;
+}
+.search{
+    border: none;
+    background: transparent;
+}
+.list-icon{
+    color: white;
+}
+.list-filter{
+    color: white;
+
+}

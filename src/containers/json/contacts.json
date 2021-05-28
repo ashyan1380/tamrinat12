@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Ed Revalo",
+      "address": "new jersey",
+      "tell": 111111 ,
+      "email":"Revalo@gmail.com",
+      "url": "user1"
+    },
+    {
+      "id": 2,
+      "name": "brenda",
+      "address": "florida",
+      "tell": 222222,
+      "email":"brenda@gmail.com",
+      "url": "user2"
+    },
+    {
+      "id": 3,
+      "name": "Betty",
+      "address": "michigan",
+      "tell": 333333,
+      "email":"Betty@gmail.com",
+      "url": "user3"
+    },
+    {
+      "id": 4,
+     "name": "neil",
+      "address": "ohio",
+      "tell": 444444,
+     "email":"neil@gmail.com",
+      "url": "user4"
+    },
+    {
+      "id": 5,
+      "name": "penna",
+      "address": "national",
+      "tell": 555555,
+      "email":"penna@gmail.com",
+      "url": "user5"
+    },
+    {
+      "id": 6,
+      "name": "Ronaldo",
+     "address": "alabama",
+      "tell": 666666,
+      "email":"Ronaldo@gmail.com",
+      "url": "user6"
+    }
+    
+  ]
